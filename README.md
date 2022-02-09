@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sushilkrg
-- 👀 I’m interested in SOftware Development, Frontend Development, Backend Development.
+- 👀 I’m interested in Software Development, Frontend Development, Backend Development.
 - 🌱 I have good grasp on programming languages like  C++, Java, JavaScript.
 - 🌱 I’m good at Development using HTML, CSS, Bootstrap, JavaScript, React.js.
 - 🌱 I’m currently learning Advance React.js, Node.js, Express.js, MongoDB.
