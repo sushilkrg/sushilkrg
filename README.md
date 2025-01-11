@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sushilkrg
-- 👀 I’m interested in Software Development, Frontend Development, Backend Development.
-- 🌱 I have good grasp on programming languages like  C++, Java, JavaScript.
-- 🌱 I’m good at Development using HTML, CSS, Bootstrap, JavaScript, React.js.
-- 🌱 I’m currently learning Advance React.js, Node.js, Express.js, MongoDB.
-- 💞️ I’m looking to collaborate on Frontend Development projects using React.js and javaScript.
-- 📫 Reach me at   
+- 👋  Hi, I’m @sushilkrg
+- 👀  I’m interested in collaborating on impactful Software Products that solves real world problems.
+- 🌱  I have a strong grasp of programming languages like Python, C++, Java and JavaScript/TypeScript.
+- 🌱  I’m proficient in development using ReactJS, Next.js, Node.js, Django REST Framework (DRF), and React Native.
+- 🌱  I’m currently expanding my skills in deployment and enhancing my expertise in full-stack development.
+- 💞️  I’m looking to collaborate on impactful Software Development projects that leverage modern frameworks and technologies to solve challenging problems.
+- 📫  Reach me at skpersonal100@gmail.com
 
 <!---
 sushilkrg/sushilkrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
