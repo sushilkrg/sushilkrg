@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @sushilkrg
+- 👋  Hi, I’m Sushil Kumar (@sushilkrg)
 - 👀  I’m interested in collaborating on impactful Software Products that solves real world problems.
 - 🌱  I have a strong grasp of programming languages like Python, C++, Java and JavaScript/TypeScript.
 - 🌱  I’m proficient in development using ReactJS, Next.js, Node.js, Django REST Framework (DRF), and React Native.
